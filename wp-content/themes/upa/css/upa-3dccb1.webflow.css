@@ -1,0 +1,4907 @@
+.body {
+  font-family: 'Open Sans', sans-serif;
+  color: #1d1d1d;
+}
+
+.content {
+  min-height: 0px;
+}
+
+.footer {
+  height: auto;
+  min-height: 310px;
+}
+
+.max1000 {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 1003px;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+}
+
+.menutop {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  max-height: 40px;
+  float: left;
+  background-color: #164479;
+}
+
+.buscador {
+  position: relative;
+  float: right;
+}
+
+.inputbuscar {
+  position: relative;
+  width: 100%;
+  max-width: 172px;
+  float: right;
+  border-style: none;
+  border-width: 1px;
+  border-color: #000 #fff;
+  background-color: transparent;
+  color: #fff;
+}
+
+.lupitasub {
+  position: absolute;
+  top: 13px;
+  right: 8px;
+  bottom: auto;
+  width: 17px;
+  height: 19px;
+  background-color: transparent;
+  background-image: url('../images/lupita.png');
+  background-position: 50% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: transparent;
+}
+
+.linke {
+  float: right;
+}
+
+.text-block {
+  margin-top: 11px;
+  padding-right: 15px;
+  padding-left: 18px;
+  float: right;
+  border-right: 0px none #fff;
+  border-left: 1px solid #fff;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.text-block:hover {
+  text-decoration: underline;
+}
+
+.text-block.sinborde {
+  border-left-style: none;
+  border-left-width: 0px;
+}
+
+.menu {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 157px;
+  float: left;
+  background-color: transparent;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.logoprin {
+  margin-top: 20px;
+  margin-left: 2%;
+}
+
+.container {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.container.containermenu {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  float: left;
+  background-color: transparent;
+}
+
+.contentitems {
+  margin-top: 18px;
+}
+
+.itemmenu {
+  padding: 33px 25px 25px;
+  border-left: 1px solid #b4b4b4;
+}
+
+.itemmenu:hover {
+  background-color: #f0f0f0;
+}
+
+.itemmenu.primeritem {
+  border-left-style: none;
+}
+
+.submenuconocenos {
+  position: absolute;
+  display: block;
+  width: 100%;
+  background-color: #f0f0f0;
+}
+
+.submenuconocenos.submenuproduc {
+  display: none;
+}
+
+.itemsubmenu {
+  position: relative;
+  min-height: 55px;
+  min-width: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  float: left;
+}
+
+.itemsubmenu:hover {
+  background-color: #d7d7d7;
+}
+
+.textsubmenu {
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px 25px;
+  float: left;
+  border-right: 1px solid #c8c8c8;
+  color: #4c4c4c;
+}
+
+.textsubmenu.ultimborde {
+  border-right-width: 0px;
+}
+
+.barradefondo {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 59px;
+  float: left;
+  background-color: #f0f0f0;
+}
+
+.max1300 {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 1300px;
+  margin-top: 14px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 0px;
+  background-color: transparent;
+}
+
+.max1300.subfooter {
+  max-width: none;
+  margin-top: 0px;
+  background-color: #103f77;
+}
+
+.max1300.footerbot {
+  max-width: none;
+  margin-top: 0px;
+  background-color: #154986;
+}
+
+.slide {
+  height: auto;
+}
+.slide.slideactivos {
+  min-height: 390px;
+  background-image: url('../images/dia-mundial-prevencion-lavado-de-activos.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+.slide.slide1 {
+  min-height: 390px;
+  background-image: url('../images/imgdeslide.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.slide.slide1.slide2 {
+  background-image: url('../images/slider2.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.slide.slide1.slide3 {
+  background-image: url('../images/slider3.png');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.slide.slide1.slide4 {
+  background-image: url('../images/slider4.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.slide.slide1.slide7 {
+  background-image: url('../images/upacredit.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mask {
+  height: auto;
+}
+
+.slider {
+  height: auto;
+  background-color: transparent;
+}
+
+.textslide {
+  position: relative;
+  left: 0%;
+  top: 0px;
+  max-width: none;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  margin-left: 10%;
+  float: left;
+  color: #fff;
+  font-size: 15px;
+  line-height: 20px;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.ctaslide {
+  position: relative;
+  left: 0%;
+  top: 0px;
+  padding: 12px 20px 12px 19px;
+  float: left;
+  border: 1px solid #fff;
+  background-color: transparent;
+  font-family: Oswald, sans-serif;
+  font-size: 15px;
+}
+
+.ctaslide:hover {
+  background-color: #1b497e;
+}
+
+.ctaslide.ctamodprin {
+  margin-top: 18px;
+  margin-bottom: 25px;
+  margin-left: 0%;
+}
+
+.ctaslide.ctamodprin.ctamod2 {
+  margin-top: 22px;
+}
+
+.ctaslide.ctamodprin.ctamod2:hover {
+  background-color: #fff;
+  color: #1d1d1d;
+}
+
+.flechs {
+  width: 59px;
+  height: 90px;
+  float: left;
+  background-color: rgba(0, 0, 0, .47);
+}
+
+.flechs.flechder {
+  float: right;
+}
+
+.modulosprincipales {
+  width: 100%;
+  margin-top: 36px;
+  padding-right: 1.5%;
+  padding-left: 1.5%;
+  float: left;
+}
+
+.modprinci {
+  position: relative;
+  width: 33%;
+  max-height: 209px;
+  min-height: 209px;
+  float: left;
+  background-color: #2c9e28;
+}
+
+.tituldemod {
+  width: 100%;
+  max-width: 253px;
+  min-height: 38px;
+  margin-top: 0px;
+  margin-bottom: 8px;
+  margin-left: 0%;
+  color: #fff;
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.textmodpri {
+  position: relative;
+  width: 100%;
+  min-height: 40px;
+  margin-left: 0%;
+  float: left;
+  color: #fff;
+  font-weight: 300;
+}
+
+.mod2bix {
+  position: absolute;
+  left: -7%;
+  top: -17px;
+  z-index: 3;
+  width: 114%;
+  max-height: 242px;
+  min-height: 242px;
+  padding-top: 0px;
+  background-image: url('../images/fondomod2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.contentimg {
+  width: 36%;
+  margin-top: 50px;
+  padding-right: 0%;
+  padding-left: 13%;
+  float: left;
+}
+
+.iconmod3 {
+  margin-top: 0px;
+  margin-left: 0%;
+}
+
+.contentmodprin {
+  position: relative;
+  width: 64%;
+  margin-top: 38px;
+  float: left;
+}
+
+.contendemodprin {
+  position: relative;
+  max-width: 253px;
+  margin-top: 38px;
+  margin-left: 14%;
+  float: left;
+}
+
+.contendemodprin.contenmod2 {
+  max-width: 343px;
+  margin-top: 50px;
+  margin-left: 4%;
+}
+
+.otrosserviccios {
+  position: relative;
+  width: 100%;
+  margin-top: 65px;
+  float: left;
+}
+
+.max960 {
+  position: relative;
+  display: block;
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  clear: both;
+}
+
+.tituldelseccion {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.heading {
+  display: block;
+  max-width: 30%;
+  margin: 0px 2%;
+  float: left;
+  color: #0a386d;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.lalineabord {
+  width: 33%;
+  height: 1px;
+  margin-top: 17px;
+  float: left;
+  background-color: #777;
+  color: #777;
+}
+
+.lalineabord.lineaotrolado {
+  width: 33%;
+  float: left;
+}
+
+.textdesubservicio {
+  position: relative;
+  width: 100%;
+  float: left;
+  text-align: center;
+}
+
+.servicicios {
+  position: relative;
+  width: 100%;
+  margin-top: 40px;
+  float: left;
+}
+
+.unserv {
+  position: relative;
+  width: 20%;
+  height: auto;
+  min-height: 110px;
+  float: left;
+}
+
+.image-2 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-block-3 {
+  position: relative;
+  width: 100%;
+  min-height: 60px;
+  padding-top: 16px;
+  float: left;
+  text-align: center;
+}
+
+.text-block-3.unalinea {
+  padding-top: 23px;
+}
+
+.separcacion {
+  position: absolute;
+  left: auto;
+  top: 0px;
+  right: 0px;
+  width: 2px;
+  height: 84px;
+  margin-top: 13px;
+  background-image: url('../images/separacion.png');
+  background-position: 50% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.separcacion.ultim {
+  display: none;
+}
+
+.otrosmodulos {
+  width: 100%;
+  margin-top: 60px;
+  padding-right: 0%;
+  padding-left: 0%;
+  float: left;
+}
+
+.modulospeques {
+  position: relative;
+  width: 59%;
+  margin-right: 1%;
+  float: left;
+  background-color: transparent;
+}
+
+.unotromodulo {
+  position: relative;
+  width: 48%;
+  min-height: 193px;
+  margin-right: 0%;
+  margin-bottom: 15px;
+  margin-left: 2%;
+  float: left;
+  background-color: transparent;
+}
+
+.unotromodulo.modul3 {
+  background-color: hsla(0, 0%, 98%, .01);
+}
+
+.unotromodulo.mod4 {
+  background-color: transparent;
+  background-image: url('../images/imgtrabajaconnos.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.unotromodulo.mod2mid {
+  background-color: #0a386d;
+}
+
+.contentprimermod {
+  width: 100%;
+  padding-left: 10%;
+  float: left;
+  background-color: #2a9b25;
+}
+
+.heading-2 {
+  position: relative;
+}
+
+.heading-2.titulprimersubmod {
+  position: relative;
+  max-width: 37%;
+  margin-right: 63%;
+  float: left;
+  color: #fff;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 600;
+}
+
+.textprimersubtitle {
+  position: relative;
+  width: 41%;
+  margin-bottom: 18px;
+  float: left;
+  color: #fff;
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 300;
+}
+
+.textprimersubtitle.textmod2 {
+  width: 85%;
+}
+
+.botdeprest {
+  position: relative;
+  width: 100%;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 11%;
+  float: left;
+  background-color: transparent;
+  background-image: url('../images/flechitfinal.png');
+  background-position: 49% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-family: Oswald, sans-serif;
+  color: #393939;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.div-block-2 {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #ddd;
+}
+
+.imgdeprimermod {
+  position: absolute;
+  right: 0px;
+  z-index: 1;
+  height: 100%;
+  max-width: 47%;
+}
+
+.imgcontentmod2 {
+  position: relative;
+  width: 47%;
+  float: left;
+}
+
+.image-3 {
+  display: block;
+  margin: 60px auto 37px;
+}
+
+.contentmod2 {
+  position: relative;
+  width: 53%;
+  float: left;
+}
+
+.tittextmod2 {
+  position: relative;
+  margin-top: 22px;
+  margin-bottom: 6px;
+  float: left;
+  color: #fff;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+.button {
+  background-color: transparent;
+}
+
+.button.ctamod2 {
+  width: 146px;
+  padding-left: 0px;
+  background-image: url('../images/flechitblanca.png');
+  background-position: 91% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-family: Oswald, sans-serif;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.contentimgmod3 {
+  position: relative;
+  width: 100%;
+  padding-bottom: 14px;
+  float: left;
+  border: 1px solid #afb9af;
+  background-color: #f3f3f3;
+}
+
+.image-4 {
+  display: block;
+  margin-top: 12px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.text-block-4 {
+  margin-top: 13px;
+  margin-bottom: 12px;
+  padding-right: 15%;
+  padding-left: 15%;
+  color: #585757;
+  font-size: 13px;
+  line-height: 18px;
+  text-align: center;
+}
+
+.button-2 {
+  background-color: transparent;
+}
+
+.button-2.ctamod3 {
+  display: block;
+  max-width: 170px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid #afb9af;
+  background-color: #f3f3f3;
+  font-family: Oswald, sans-serif;
+  color: #535353;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.testimonios {
+  width: 39%;
+  float: left;
+  background-image: url('../images/fondodetestimonios.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.tituldetestimonios {
+  margin-top: 69px;
+  padding-right: 15%;
+  padding-left: 15%;
+  font-size: 19px;
+  line-height: 22px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.slidertestimonio {
+  max-height: 280px;
+  background-color: transparent;
+}
+
+.displaynone {
+  display: none;
+}
+
+.testimoniotext {
+  display: block;
+  width: 73%;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 13px;
+  line-height: 15px;
+  text-align: center;
+}
+
+.flech {
+  bottom: 0px;
+  width: 30px;
+  height: 30px;
+  margin-top: 188px;
+  margin-right: 44%;
+  border-radius: 15px;
+  background-color: #03b014;
+}
+
+.flech.flechizqu {
+  margin-right: 0%;
+  margin-left: 40%;
+}
+
+.iconflec {
+  width: 100%;
+  margin-top: 9px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.seceducacionfinanciera {
+  position: relative;
+  width: 100%;
+  margin-top: 7px;
+  padding-bottom: 16px;
+  float: left;
+  background-color: #f7f7f7;
+}
+
+.tituleduchome {
+  margin-top: 22px;
+  color: #14780f;
+  font-size: 36px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.todoslosblogs {
+  width: 100%;
+  margin-top: 37px;
+  padding-right: 0%;
+  padding-left: 0%;
+  float: left;
+}
+
+.unblogarchivofina {
+  position: relative;
+  overflow: hidden;
+  width: 31.3%;
+  max-height: 320px;
+  margin-right: 1%;
+  margin-left: 1%;
+  padding-bottom: 28px;
+  float: left;
+  border: 1px solid #aeb0b3;
+  border-radius: 10px;
+}
+
+.unblogarchivofina.blogarchiv {
+  max-height: none;
+  margin-bottom: 40px;
+  padding-bottom: 28px;
+  background-color: #fff;
+}
+
+.imgdeblog {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 156px;
+  float: left;
+}
+
+.fechablog {
+  position: relative;
+  width: 100%;
+  margin-top: 9px;
+  padding-left: 7%;
+  float: left;
+  color: #3b4b5d;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.detallefecha {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #03b014;
+}
+
+.heading-3 {
+  width: 100%;
+  margin-top: 32px;
+  padding-right: 7%;
+  padding-left: 7%;
+  float: left;
+  font-size: 13px;
+  line-height: 17px;
+  text-transform: uppercase;
+}
+
+.leermashomeblog {
+  position: relative;
+  margin-top: 10px;
+  margin-left: 7%;
+  float: left;
+  color: #2a2a2a;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.leermashomeblog:hover {
+  text-decoration: underline;
+}
+
+.link {
+  position: absolute;
+  left: auto;
+  top: 37px;
+  right: 18px;
+  width: 66px;
+  background-image: url('../images/flechitfinal.png');
+  background-position: 97% 50%;
+  background-size: 6px;
+  background-repeat: no-repeat;
+  color: #666565;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.mapadelsitio {
+  position: relative;
+  width: 100%;
+  margin-top: 33px;
+  margin-bottom: 19px;
+  padding-left: 1%;
+  float: left;
+}
+
+.link-2 {
+  position: relative;
+  width: 100%;
+  padding-left: 0%;
+  float: left;
+  color: #fff;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.link-2:hover {
+  text-decoration: underline;
+}
+
+.colums {
+  position: relative;
+  width: 19%;
+  margin-right: 0%;
+  padding-left: 0%;
+  float: left;
+}
+
+.colums.col2 {
+  width: 22%;
+}
+
+.colums.cols3 {
+  width: 23%;
+}
+
+.colums.cols4 {
+  width: 22%;
+}
+
+.colums.cols5 {
+  width: 14%;
+}
+
+.logofooter {
+  position: relative;
+  width: 20%;
+  margin-top: 41px;
+  margin-left: 1%;
+  float: left;
+}
+
+.text-block-5 {
+  position: relative;
+  margin-top: 82px;
+  margin-left: 3%;
+  float: left;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.linksdefooter {
+  width: 31.5%;
+  margin-left: 9.5%;
+  float: left;
+}
+
+.pbx {
+  width: 61%;
+  padding-top: 38px;
+  padding-bottom: 63px;
+  float: left;
+  border-right: 1px solid #245d9f;
+  border-left: 1px solid #245d9f;
+  background-image: url('../images/tels.png');
+  background-position: 50% 74%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+.pbx:hover {
+  padding-top: 27px;
+}
+
+.fbfooter {
+  position: relative;
+  width: 39%;
+  padding-top: 38px;
+  padding-bottom: 63px;
+  float: left;
+  border-right: 1px solid #245d9f;
+  background-image: url('../images/fb.png');
+  background-position: 50% 74%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fbfooter:hover {
+  padding-top: 27px;
+}
+
+.presentacion {
+  background-image: url('../images/fondopresentacion.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 13px;
+  line-height: 21px;
+}
+
+.tituloseccion {
+  position: relative;
+  width: 100%;
+  margin-top: 70px;
+  margin-bottom: 80px;
+  float: left;
+  color: #fff;
+  font-size: 39px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.tituloseccion.micoopetit {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.tituloseccion.mision {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-image: url('../images/fondomision.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.tituloseccion.mision.infofin {
+  background-image: url('../images/infofin.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.unparrafo {
+  max-width: 50%;
+  margin-bottom: 60px;
+  padding-top: 9px;
+  padding-right: 2%;
+  padding-left: 2%;
+  float: left;
+  color: #fff;
+  line-height: 18px;
+  font-weight: 300;
+  text-align: justify;
+}
+
+.unparrafo.parrafomicope {
+  max-width: 100%;
+  margin-bottom: 30px;
+  line-height: 17px;
+  text-align: center;
+}
+
+.unparrafo.parrafomicope.parrami {
+  margin-top: 5px;
+  margin-bottom: 64px;
+  padding-right: 12%;
+  padding-left: 12%;
+  color: #363636;
+  font-size: 16px;
+  text-align: center;
+}
+
+.micoope {
+  height: auto;
+  min-height: 0px;
+  padding-bottom: 25px;
+  background-color: #2c8d28;
+}
+
+.administracionyvigilancia {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.unaseccion {
+  position: relative;
+  width: 50%;
+  padding-bottom: 0px;
+  float: left;
+}
+
+.imgmodmicope {
+  position: relative;
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+  text-align: center;
+}
+
+.imgmodmicope.iconmi {
+  margin-top: 65px;
+}
+
+.titulodemicope {
+  color: #fff;
+  font-size: 20px;
+  line-height: 16px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.titulodemicope.titmi {
+  color: #363636;
+  font-size: 17px;
+}
+
+.sistema-mi-coope {
+  width: 100%;
+  height: auto;
+  min-height: 0px;
+  padding-bottom: 30px;
+  float: left;
+}
+
+.titulomicoopesis {
+  position: relative;
+  display: block;
+  width: 100%;
+  margin-top: 30px;
+  float: left;
+  font-size: 23px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.unsistema {
+  position: relative;
+  width: 31.3%;
+  max-width: 300px;
+  margin-right: 1%;
+  margin-left: 1%;
+  padding-bottom: 20px;
+  float: left;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  text-decoration: none;
+}
+
+.imgdesistema {
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.tituldelsistemal {
+  position: relative;
+  width: 100%;
+  margin-bottom: 2px;
+  float: left;
+  color: #000;
+  font-weight: 400;
+  text-align: center;
+}
+
+.text-block-6 {
+  position: relative;
+  display: block;
+  width: 69%;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+  clear: both;
+  color: #000;
+  font-size: 12px;
+  line-height: 17px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.titulomis {
+  margin-top: 73px;
+  margin-bottom: 57px;
+}
+
+.msionyvision {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.valorescontent {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #339a2f;
+}
+
+.imgdevalores {
+  position: static;
+  width: 36%;
+  min-height: 422px;
+  margin-top: 76px;
+  margin-left: 11%;
+  float: left;
+}
+
+.imgdevalores.eslaimg {
+  position: absolute;
+  left: 23%;
+  bottom: 0px;
+  width: auto;
+  max-width: 24%;
+  min-height: 0px;
+  margin-top: 0px;
+  margin-left: 0%;
+}
+
+.contenttextval {
+  width: 53%;
+  padding-left: 1.4%;
+  float: left;
+}
+
+.tituldevals {
+  position: relative;
+  margin-top: 36px;
+  float: left;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.losvalorestex {
+  position: relative;
+  width: 100%;
+  margin-top: 17px;
+  margin-bottom: 20px;
+  padding-right: 30%;
+  float: left;
+  color: #fff;
+  line-height: 17px;
+}
+
+.statuto {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.statutoimg {
+  position: relative;
+  width: 22%;
+  margin-top: 9px;
+  margin-bottom: 10px;
+  margin-left: 17%;
+  float: left;
+}
+
+.textstatuto {
+  position: relative;
+  width: 53%;
+  margin-top: 0px;
+  margin-bottom: 23px;
+  margin-left: 8%;
+  float: left;
+}
+
+.titulostatuto {
+  margin-top: 27px;
+  margin-bottom: 3px;
+  color: #103f77;
+  font-weight: 500;
+}
+
+.textstatut {
+  color: #636363;
+  font-size: 16px;
+}
+
+.colorverde {
+  color: #339a2f;
+  font-weight: 600;
+}
+
+.descargarestato {
+  margin-top: 11px;
+  padding: 7px 38px;
+  border-radius: 20px;
+  background-color: #192251;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.descargarestato:hover {
+  background-color: #1027a0;
+}
+
+.contentissu {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #353535;
+}
+
+.contentisssu {
+  display: block;
+  width: 33%;
+  min-height: 449px;
+  min-width: 542px;
+  margin: 34px auto 36px;
+}
+
+.textdeinfofin {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.descgrandeinfofin {
+  position: relative;
+  width: 100%;
+  margin-top: 38px;
+  padding-right: 16%;
+  padding-left: 16%;
+  float: left;
+  font-size: 21px;
+  line-height: 30px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.textsuninfin {
+  position: relative;
+  width: 100%;
+  margin-top: 16px;
+  margin-bottom: 100px;
+  padding-right: 18.5%;
+  padding-left: 18.5%;
+  float: left;
+  line-height: 18px;
+  text-align: center;
+}
+
+.image-6 {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.titulcoperativismop {
+  position: relative;
+  width: 100%;
+  margin-top: 75px;
+  float: left;
+  color: #fff;
+  font-size: 34px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.textdecoper {
+  position: relative;
+  width: 100%;
+  margin-top: 46px;
+  padding-right: 11%;
+  padding-left: 11%;
+  float: left;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+}
+
+.subtitledecopera {
+  position: relative;
+  width: 100%;
+  margin-top: 49px;
+  margin-bottom: 60px;
+  float: left;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+}
+
+.imgytexto {
+  position: relative;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  float: left;
+}
+
+.imgcope1 {
+  position: relative;
+  width: auto;
+  margin-top: 0px;
+  margin-left: 17%;
+  float: left;
+}
+
+.textdecope1 {
+  position: relative;
+  width: 50%;
+  margin-top: 46px;
+  margin-left: 5%;
+  padding-right: 4%;
+  float: left;
+  font-size: 13px;
+}
+
+.textdecope1.textdecope2 {
+  width: 49%;
+  margin-right: 0%;
+  margin-left: 15%;
+  padding-right: 2%;
+}
+
+.titdevalscope {
+  margin-bottom: 0px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.text-block-7 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.textoimg {
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 60px;
+  float: left;
+}
+
+.imgcope2 {
+  position: relative;
+  float: left;
+}
+
+.cooperativismo {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #0f437e;
+}
+
+.copecredito {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #35a131;
+}
+
+.heading-7 {
+  position: relative;
+  width: 100%;
+  margin-top: 47px;
+  float: left;
+  color: #fff;
+  font-size: 34px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.texteimg {
+  position: relative;
+  width: 100%;
+  margin-bottom: 110px;
+  float: left;
+}
+
+.imgdecopartiva {
+  position: relative;
+  width: 15.5%;
+  max-width: 149%;
+  margin-top: 40px;
+  margin-left: 12.5%;
+  float: left;
+}
+
+.textcoperativacredito {
+  position: relative;
+  width: 56%;
+  margin-top: 60px;
+  margin-left: 5%;
+  float: left;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+}
+
+.filtro {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.elfiltro {
+  position: relative;
+  min-width: 50%;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  padding-left: 1%;
+  float: left;
+}
+
+.textfiltro {
+  position: relative;
+  margin-top: 10px;
+  float: left;
+}
+
+.filtros {
+  position: relative;
+  width: 221px;
+  margin-left: 4%;
+  float: left;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.dropdown-toggle {
+  width: 100%;
+  padding-top: 8px;
+  padding-bottom: 7px;
+  border: 1px none #ddd;
+  border-radius: 0px;
+  background-color: transparent;
+}
+
+.text-block-8 {
+  color: #616161;
+  font-weight: 600;
+}
+
+.icon-4 {
+  color: #616161;
+}
+
+.unitem {
+  width: 80%;
+  border-bottom: 1px solid #616161;
+  background-color: #fff;
+  color: #616161;
+}
+
+.unitem:hover {
+  color: #1d1b1b;
+  font-weight: 600;
+}
+
+.unitem.ultm {
+  border-style: none;
+}
+
+.dropdown-list.w--open {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.itemprincipal {
+  position: relative;
+  width: 98%;
+  margin-bottom: 40px;
+  margin-left: 1%;
+  padding-right: 0%;
+  padding-left: 0%;
+  float: left;
+  border: 1px solid #aeb0b3;
+  border-radius: 10px;
+  background-color: #f8f9fb;
+}
+
+.imgblogprin {
+  position: relative;
+  width: 54%;
+  margin-left: 0%;
+  float: left;
+}
+
+.contentdeblog {
+  width: 40%;
+  margin-top: 60px;
+  margin-left: 3%;
+  float: left;
+}
+
+.fechablogarch {
+  color: #3b4b5d;
+}
+
+.fechablogarch.fechasublog {
+  position: relative;
+  width: 90%;
+  margin-top: 7px;
+  margin-left: 4%;
+  float: left;
+}
+
+.subra {
+  padding-bottom: 4px;
+  border-bottom: 1px solid #50b04c;
+}
+
+.titulblogprin {
+  margin-top: 36px;
+  padding-left: 1%;
+  font-size: 17px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+
+.titulblogprin.titulotroblog {
+  margin-top: 59px;
+  margin-left: 4%;
+  padding-right: 3%;
+  padding-left: 3%;
+  font-size: 13px;
+  line-height: 17px;
+}
+
+.leermas {
+  position: relative;
+  margin-top: 15px;
+  float: left;
+  color: #2a2a2a;
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.leermas:hover {
+  text-decoration: underline;
+}
+
+.leermas.leermassublog {
+  margin-top: 10px;
+  margin-left: 7%;
+  float: left;
+}
+
+.image-7 {
+  display: block;
+  opacity: 1;
+}
+
+.etiqueta {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: auto;
+  min-width: 61px;
+  padding-right: 4px;
+  padding-left: 4px;
+  background-color: #fff;
+  font-size: 9px;
+  line-height: 15px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.otrosblogs {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.botdecargarmas {
+  position: relative;
+  width: 98%;
+  margin-right: 1%;
+  margin-bottom: 40px;
+  margin-left: 1%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: left;
+  border: 1px solid #e1e1e1;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #595959;
+  font-size: 13px;
+  text-align: center;
+}
+
+.archivoblog {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #f7f7f7;
+}
+
+.imgblog {
+  width: 98%;
+  margin-top: 63px;
+  margin-right: 1%;
+  margin-left: 1%;
+  border-radius: 10px;
+}
+
+.bloginterno {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.headinterblog {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  min-height: 150px;
+  background-image: url('../images/cabecerablog.png');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.contentbloginter {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.contentprincipal {
+  width: 66%;
+  min-height: auto;
+  padding-right: 14px;
+  padding-left: 14px;
+  float: left;
+}
+
+.sidebarinterblog {
+  width: 34%;
+  padding-right: 1%;
+  padding-left: 1.8%;
+  float: left;
+}
+
+.sidebarinterblog.sidebarinter {
+  padding-top: 40px;
+}
+
+.etiquetayfecha {
+  width: 100%;
+  margin-top: 38px;
+  float: left;
+}
+
+.etiquetainterna {
+  position: relative;
+  padding-right: 3px;
+  padding-left: 3px;
+  float: left;
+  background-color: #0ea118;
+  color: #fff;
+  font-size: 9px;
+  line-height: 15px;
+}
+
+.fechainterna {
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+  float: left;
+  color: #3b4b5d;
+  font-size: 13px;
+}
+
+.titullbloginter {
+  position: relative;
+  width: 100%;
+  margin-top: 16px;
+  float: left;
+  color: #3b4b5d;
+  font-size: 25px;
+  line-height: 26px;
+  font-weight: 400;
+}
+
+.textinterblog {
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+  float: left;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: justify;
+}
+
+.compartir {
+  position: relative;
+  width: 97%;
+  margin-top: 54px;
+  padding-bottom: 13px;
+  float: left;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.text-block-9 {
+  position: relative;
+  margin-top: 10px;
+  margin-right: 5px;
+  float: left;
+  font-size: 12px;
+}
+
+.botshare {
+  width: 32px;
+  margin-top: 4px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.articulosrelcontent {
+  position: relative;
+  width: 100%;
+  margin-top: 60px;
+  margin-bottom: 21px;
+  float: left;
+}
+
+.tituldeartrel {
+  margin-top: 0px;
+  margin-bottom: 15px;
+  color: dimgrey;
+  font-size: 12px;
+  line-height: 21px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.unrelinter {
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 10%;
+  float: left;
+  border: 1px solid #ebebeb;
+  border-radius: 6px;
+  background-image: url('../images/relflech.png');
+  background-position: 93% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: dimgrey;
+  font-size: 13px;
+  line-height: 17px;
+  text-decoration: none;
+}
+
+.modcotizador {
+  position: relative;
+  width: 100%;
+  min-height: 0px;
+  float: left;
+  border-radius: 10px;
+  background-color: #284d97;
+}
+
+.modcotizador.cotizarmod {
+  min-height: 481px;
+  border-radius: 0px;
+  background-color: #7dafed;
+}
+
+.calculatorcoti {
+  position: relative;
+  display: block;
+  margin-top: 73px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.fondoarribamod {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  min-height: 175px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-image: url('../images/fondocalcu.png');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.tituldemodcot {
+  padding-left: 0%;
+  color: #fff;
+  line-height: 34px;
+  text-align: center;
+}
+
+.maspeque {
+  position: relative;
+  width: 100%;
+  float: left;
+  font-size: 22px;
+}
+
+.unordered-list {
+  position: relative;
+  width: 84%;
+  margin-right: 8%;
+  margin-left: 8%;
+  float: left;
+  color: #fff;
+}
+
+.textitem {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.lit {
+  margin-bottom: 9px;
+}
+
+.textitem {
+  color: #fff;
+  font-size: 13px;
+}
+
+.cotizarprest {
+  width: 66%;
+  margin: 10px 17% 29px;
+  border-radius: 10px;
+  background-color: #3da738;
+  font-size: 13px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.contactocontent {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.contactocontent.agenciascontent {
+  min-height: auto;
+}
+
+.contactocontent.agenciasinternacont {
+  min-height: 0px;
+}
+
+.contactocontent.cotizadorcont {
+  min-height: auto;
+}
+
+.contactocontent.activosextraordinarios {
+  min-height: 0px;
+  padding-bottom: 50px;
+}
+
+.contactocontent.errorpage {
+  min-height: 0px;
+  padding-top: 85px;
+  padding-bottom: 185px;
+  background-color: #e8e8e8;
+}
+
+.contactocontent.search {
+  min-height: auto;
+  padding-bottom: 80px;
+  background-color: #fbfbfb;
+}
+
+.tituldecont {
+  width: 100%;
+  float: left;
+  background-image: url('../images/fondotitulcontacto.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.tituldecont.ahorrofond {
+  background-image: url('../images/fondotitulahorro.png');
+  background-size: cover;
+}
+
+.tituldecont.tituldeagencias {
+  background-image: url('../images/fondotitulagencias.jpg');
+  background-size: cover;
+}
+
+.tituldecont.titulcotiz {
+  background-image: url('../images/fondocotizador.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.tituldecont.titulactivs {
+  background-image: url('../images/fondotitulahorro.png');
+}
+
+.tituldecontacto {
+  position: relative;
+  width: 100%;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  float: left;
+  color: #fff;
+  font-size: 34px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.datosyformulario {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #3ea43a;
+}
+
+.datos {
+  position: relative;
+  width: 30%;
+  float: left;
+}
+
+.tituldedatoscont {
+  position: relative;
+  width: 100%;
+  margin-top: 109px;
+  margin-bottom: 16px;
+  padding-left: 0%;
+  float: left;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.textdedatos {
+  position: relative;
+  width: 100%;
+  margin-bottom: 15px;
+  padding-left: 22%;
+  float: left;
+  background-image: url('../images/cont-icons_01.png');
+  background-position: 11px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-weight: 300;
+}
+
+.textdedatos.pbxencont {
+  background-image: url('../images/cont-icons_03.png');
+  background-size: auto;
+}
+
+.textdedatos.correocont {
+  background-image: url('../images/cont-icons_05.png');
+  background-size: auto;
+  text-decoration: none;
+}
+
+.formcontact {
+  width: 49%;
+  margin-top: 54px;
+  margin-left: 21%;
+  float: left;
+}
+
+.inputform {
+  margin-bottom: 6px;
+  border-radius: 5px;
+}
+
+.textareacont {
+  min-height: 109px;
+  border-radius: 5px;
+}
+
+.enviarcontent {
+  min-width: 138px;
+  padding-top: 9px;
+  padding-bottom: 5px;
+  float: right;
+  border-radius: 5px;
+  background-color: #0e3f76;
+}
+
+.fotodetiendacontent {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.fotdeagenc {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.textdesc {
+  position: relative;
+  width: 100%;
+  margin-top: 35px;
+  margin-bottom: 56px;
+  padding-right: 0%;
+  padding-left: 0%;
+  float: left;
+  color: #3b4756;
+  text-align: center;
+}
+
+.menuarchive {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.unitemarchivo {
+  position: relative;
+  width: 23%;
+  max-height: 109px;
+  margin-right: 1%;
+  margin-bottom: 131px;
+  margin-left: 1%;
+  padding-bottom: 3px;
+  float: left;
+  border-radius: 24px;
+  background-image: url(../images/fondo.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.unitemarchivo.tarje {
+  min-width: 220px;
+}
+
+.eltituldearhiv {
+  position: relative;
+  width: 100%;
+  margin-top: 21px;
+  float: left;
+}
+
+.heading-8 {
+  position: relative;
+  min-height: 47px;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.div-block-4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  display: block;
+  width: 20px;
+  height: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  border-top: 1px solid #50b04c;
+}
+
+.flechit {
+  position: relative;
+  display: block;
+  width: 20px;
+  height: 20px;
+  max-width: none;
+  min-width: 0px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+  clear: both;
+}
+
+.flechitverde {
+  position: absolute;
+  left: 2px;
+  top: 5px;
+  right: 4px;
+  bottom: 0px;
+  display: none;
+}
+
+.tarjetasarchive {
+  position: relative;
+  display: block;
+  max-width: 460px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.remesascontent {
+  min-height: auto;
+  padding-bottom: 20px;
+}
+
+.titulderemesas {
+  background-image: url('../images/fondoremesas.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.tithprod {
+  position: relative;
+  width: 40%;
+  margin-top: 100px;
+  margin-bottom: 107px;
+  float: left;
+  color: #fff;
+  font-size: 36px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.tithprod.ahorrointer {
+  width: 55%;
+  margin-top: 90px;
+  margin-bottom: 90px;
+  font-weight: 600;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.icontitulinter {
+  position: relative;
+  width: 29%;
+  max-width: 377px;
+  margin-top: 38px;
+  margin-left: 11%;
+  float: left;
+}
+
+.icontitulinter.iconseguros {
+  width: 14%;
+  margin-top: 16px;
+  margin-left: 18%;
+}
+
+.icontitulinter.iconaportaciones {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: auto;
+  height: 100%;
+  max-width: none;
+  margin-top: 0px;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.icontitulinter.iconaportaciones.miprestaupa {
+  height: 80%;
+}
+
+.contentremesas {
+  width: 100%;
+  min-height: 0px;
+  float: left;
+}
+
+.textdeprodu {
+  position: relative;
+  width: 100%;
+  margin-top: 38px;
+  float: left;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+.textdeprodu.otrotext {
+  margin-top: 8px;
+}
+
+.textdeprodu.textdereq {
+  margin-top: 27px;
+  padding-left: 2%;
+}
+
+.textdeprodu.textdecotizador {
+  margin-top: 31px;
+}
+
+.textdeprodu.textdecotizador.textdecotiz {
+  width: 65%;
+  margin-left: 18%;
+  text-align: center;
+}
+
+.textdeprodu.textdecotizador.textdecotiz.textactivsext {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.subtite {
+  position: relative;
+  width: 100%;
+  margin-top: 23px;
+  float: left;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.remesadores {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.unaremesa {
+  position: relative;
+  display: block;
+  width: 19%;
+  min-height: 82px;
+  min-width: 0px;
+  margin-top: 5px;
+  margin-right: 1%;
+  margin-bottom: 5px;
+  padding: 13px 0% 8px;
+  float: left;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.imgremesa {
+  position: relative;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.seguroscolumna {
+  position: relative;
+  width: 93%;
+  margin-top: 29px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.iconsegurcol {
+  display: block;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.textcols {
+  display: block;
+  width: 27%;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+  color: #1d1d1d;
+  line-height: 17px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.text-span {
+  position: relative;
+  width: 100%;
+  float: left;
+  color: #1d1d1d;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.ctaproducto {
+  position: relative;
+  width: 100%;
+  margin-top: 3px;
+  margin-bottom: 15px;
+  padding-bottom: 28px;
+  float: left;
+  border-radius: 10px;
+  background-color: #2ea32c;
+}
+
+.imgctaprointer {
+  position: relative;
+  display: block;
+  margin: 33px auto 14px;
+}
+
+.imgctaprointer.ahorrocoriient {
+  margin-bottom: 34px;
+}
+
+.imgctaprointer.ahorroprgramd {
+  margin-bottom: 44px;
+}
+
+.imgctaprointer.tarjetasazules {
+  margin-bottom: 64px;
+}
+
+.imgctaprointer.prestaupaicon {
+  position: relative;
+  padding-right: 33%;
+  float: left;
+}
+
+.imgctaprointer.upacredit {
+  margin-bottom: 30px;
+}
+
+.subfondocta {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  height: 235px;
+  max-height: 235px;
+  background-image: url('../images/fondoctaabs.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.subfondocta.enupacredit {
+  max-height: 190px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.ctainterpro {
+  display: block;
+  width: 76%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  clear: both;
+  border-radius: 10px;
+  background-color: #082443;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.ctainterpro:hover {
+  background-color: #0d509b;
+}
+
+.cotizadorenlinea {
+  position: relative;
+  z-index: 1;
+  width: 84%;
+  margin-top: 17px;
+  margin-right: 11px;
+  margin-left: 5%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  background-color: #284d97;
+  color: #fff;
+  font-size: 21px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.text-block-12 {
+  position: relative;
+  width: 85%;
+  margin-top: -10px;
+  margin-bottom: 20px;
+  margin-left: 9%;
+  padding-top: 16px;
+  padding-bottom: 15px;
+  float: left;
+  background-color: #f1f1f1;
+  font-size: 22px;
+  line-height: 25px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.listadeahorros {
+  position: relative;
+  display: block;
+  width: 95%;
+  margin-top: 0px;
+  padding-top: 5px;
+  padding-left: 9%;
+  float: left;
+  clear: both;
+}
+
+.listitem {
+  position: relative;
+  width: 100%;
+  margin-bottom: 5px;
+  padding-left: 9%;
+  float: left;
+  background-image: url('../images/palomita_1.png');
+  background-position: 3px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 12px;
+}
+
+.imgdecalcul {
+  position: relative;
+  width: 100%;
+  margin-top: 41px;
+  float: left;
+}
+
+.ctabotcotiz {
+  position: relative;
+  width: 100%;
+  margin-top: 24px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 22%;
+  float: left;
+  background-color: #284d97;
+  background-image: url('../images/flechacta.png');
+  background-position: 80% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  text-align: left;
+}
+
+.ctabotcotiz:hover {
+  background-color: #071f4e;
+}
+
+.table {
+  position: relative;
+  overflow: hidden;
+  width: 96%;
+  margin-top: 33px;
+  float: left;
+  border: 1px none #000;
+  border-radius: 10px;
+}
+
+.encabezado {
+  position: relative;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 17px;
+  float: left;
+  background-color: #f5f5f5;
+}
+
+.encabezado.fila {
+  margin-bottom: 1px;
+  padding-top: 13px;
+  padding-bottom: 8px;
+  background-color: #ededed;
+}
+
+.unacelda {
+  position: relative;
+  width: 33.3%;
+  float: left;
+  text-align: center;
+}
+
+.unacelda.celdapresta {
+  width: 19%;
+  font-size: 13px;
+}
+
+.unacelda.celdapresta.ultimcel {
+  width: 24%;
+  font-size: 13px;
+}
+
+.unacelda.celdapresta.celdapresaut {
+  width: 16.6%;
+  line-height: 15px;
+}
+
+.unacelda.celdapresta.celdapresaut.uf {
+  margin-top: 13px;
+}
+
+.unacelda.celdapresta.celdapresaut.df {
+  margin-top: 6px;
+}
+
+.unacelda.de4 {
+  width: 25%;
+}
+
+.tituldetabla {
+  position: relative;
+  width: 100%;
+  margin-top: 30px;
+  float: left;
+  color: #0f437e;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.tituldetabla.otrotitul {
+  margin-top: 20px;
+  color: #22861d;
+  font-weight: 500;
+}
+
+.tituldetabla.otrotitul.textver {
+  padding-left: 1%;
+  color: #3da738;
+  font-style: normal;
+}
+
+.tituldetabla.bm {
+  margin-top: 20px;
+}
+
+.tablaprestafacil {
+  position: relative;
+  width: 96%;
+  margin-top: 17px;
+  float: left;
+}
+
+.columdetabla {
+  position: relative;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7%;
+  float: left;
+  border: 1px solid #ebebeb;
+  background-color: #f8f8f8;
+  background-image: url('../images/flechitabla.png');
+  background-position: 12px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-style: italic;
+}
+
+.constanciadetrabajo {
+  position: relative;
+  width: 100%;
+  margin-top: 31px;
+  float: left;
+}
+
+.constaciadetrab {
+  position: relative;
+  width: 42%;
+  float: left;
+}
+
+.titulybotdeconstancia {
+  position: relative;
+  width: 55%;
+  margin-left: -25px;
+  float: left;
+  line-height: 17px;
+}
+
+.titulconstancia {
+  margin-top: 27px;
+  color: #3e3f40;
+  font-size: 20px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+
+.ctadescargar {
+  min-width: 156px;
+  border-radius: 12px;
+  background-color: #192251;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.ctadescargar.descargarbro {
+  margin-top: 40px;
+}
+
+.tabsdecontent {
+  width: 96%;
+  margin-top: 16px;
+}
+
+.tabdetabs {
+  width: 50%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: transparent;
+  color: #0f437e;
+}
+
+.textab {
+  color: #0f437e;
+}
+
+.tabs {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #fafafa;
+}
+
+.listadereque {
+  position: relative;
+  width: 100%;
+  margin-top: 26px;
+  float: left;
+}
+
+.text-block-13 {
+  padding-left: 7%;
+  background-image: url('../images/palomita.png');
+  background-position: 22px 4px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.tabpanel {
+  padding-bottom: 30px;
+}
+
+.tablaagencia {
+  position: relative;
+  width: 100%;
+  margin-top: 13px;
+  padding-right: 1%;
+  padding-bottom: 30px;
+  padding-left: 1%;
+  float: left;
+}
+
+.encabezadoagencia {
+  position: relative;
+  width: 100%;
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  float: left;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: #50b04c;
+}
+
+.agenciacel {
+  position: relative;
+  width: 25%;
+  padding-left: 2%;
+  float: left;
+  color: #fff;
+}
+
+.agenciacel.telagencia {
+  width: 18%;
+}
+
+.agenciacel.direccion {
+  width: 57%;
+  font-weight: 300;
+}
+
+.unagenciafila {
+  position: relative;
+  width: 100%;
+  min-height: 57px;
+  margin-bottom: 2px;
+  float: left;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
+
+.agenombre {
+  position: relative;
+  width: 22%;
+  margin-top: 20px;
+  padding-left: 3%;
+  float: left;
+}
+
+.agenombre.pbxtels {
+  width: 18%;
+}
+
+.agenombre.direccs {
+  width: 38%;
+  min-height: 43px;
+  margin-top: 9px;
+  padding-top: 11px;
+  border-right: 1px solid #e2e2e2;
+  line-height: 17px;
+}
+
+.vermasinfoagencia {
+  position: relative;
+  width: 22%;
+  min-height: 43px;
+  margin-top: 9px;
+  margin-bottom: 9px;
+  padding-top: 12px;
+  padding-left: 2%;
+  float: left;
+  border-left: 1px solid #fff;
+  background-image: url('../images/relflech.png');
+  background-position: 90% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: #383838;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.datosdeagencia {
+  position: relative;
+  width: 98%;
+  margin-top: 17px;
+  margin-right: 1%;
+  margin-left: 1%;
+  float: left;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.imagendeagencia {
+  position: relative;
+  width: 31%;
+  padding: 10px 1%;
+  float: left;
+  border-style: none solid none none;
+  border-width: 1px;
+  border-color: #ddd;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-color: transparent;
+}
+
+.datosdeagenciain {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 69%;
+  float: left;
+}
+
+.undatodela {
+  position: relative;
+  width: 100%;
+  min-height: 33.3%;
+  float: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.undatodela.ultimagenc {
+  border-bottom-style: none;
+}
+
+.textdetienda {
+  width: 39%;
+  margin-top: 5%;
+  padding-left: 12%;
+  float: left;
+  font-size: 13px;
+}
+
+.textdetienda.datoagenc {
+  padding-left: 0%;
+}
+
+.textdetienda.datoagenc.direcci {
+  width: 40%;
+  margin-top: 4%;
+  line-height: 17px;
+}
+
+.textdetienda.icontel {
+  background-image: url('../images/icontel.png');
+  background-position: 41px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.textdetienda.direc {
+  background-image: url('../images/pindire.png');
+  background-position: 41px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.textdetienda.horarios {
+  background-image: url('../images/iconreloj.png');
+  background-position: 42px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.mapagoogle {
+  position: relative;
+  width: 98%;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  margin-left: 1%;
+  float: left;
+  border-radius: 10px;
+}
+
+.elcotizador {
+  position: relative;
+  overflow: hidden;
+  width: 98%;
+  margin-top: 20px;
+  margin-left: 1%;
+  float: left;
+  border-radius: 10px;
+}
+
+.formcotizador {
+  width: 61%;
+  margin-bottom: 0px;
+  float: left;
+}
+
+.tipoprest {
+  position: relative;
+  width: 100%;
+  padding-top: 19px;
+  padding-bottom: 13px;
+  float: left;
+  background-color: #adccdf;
+}
+
+.pasos {
+  width: 47px;
+  height: 47px;
+  margin-top: 0px;
+  margin-left: 5%;
+  padding-top: 15px;
+  float: left;
+  border-radius: 25px;
+  background-color: #0b315c;
+  color: #fff;
+  font-size: 19px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.pasos.paso2 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+}
+
+.pasos.paso3 {
+  margin-top: 16px;
+  margin-left: 6%;
+}
+
+.labeldelform {
+  margin-top: 20px;
+  margin-left: 6%;
+  float: left;
+  font-size: 15px;
+}
+
+.selectdelformcot {
+  position: relative;
+  width: 43%;
+  min-height: 0px;
+  margin-top: 11px;
+  margin-left: 6%;
+  float: left;
+  background-color: transparent;
+  text-align: right;
+}
+
+.demascampos {
+  position: relative;
+  width: 100%;
+  padding-top: 17px;
+  padding-right: 6%;
+  padding-bottom: 13px;
+  float: right;
+  background-color: #d6e7f2;
+}
+
+.inputcoti {
+  width: 46%;
+  margin-bottom: 0px;
+  float: right;
+  border: 1px solid #bcbcbc;
+  border-radius: 5px;
+  text-align: right;
+}
+
+.inputcoti.fijos {
+  background-color: #f4f4f4;
+  font-weight: 700;
+}
+
+.labcot {
+  width: 49%;
+  margin-top: 9px;
+  float: left;
+  font-weight: 400;
+  text-align: right;
+}
+
+.uncamp {
+  position: relative;
+  width: 100%;
+  margin-bottom: 7px;
+  float: left;
+}
+
+.lasalertas {
+  position: relative;
+  width: 39%;
+  padding-top: 20px;
+  padding-bottom: 23px;
+  float: left;
+  background-color: #96dbb3;
+}
+
+.iconalerta {
+  display: block;
+  margin-top: 39px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.alerttext {
+  position: relative;
+  width: 88%;
+  margin-top: 30px;
+  margin-right: 6%;
+  margin-left: 6%;
+  float: left;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: justify;
+}
+
+.formyalerta {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.explicaciones {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #314152;
+}
+
+.textcenter {
+  display: block;
+  width: 73%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.textdeexplic {
+  margin-top: 16px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  font-weight: 300;
+  text-align: left;
+}
+
+.textdeexplic.ultmi {
+  border-bottom-style: none;
+}
+
+.tabladeresultados {
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  float: left;
+}
+
+.encabezadodetab {
+  width: 100%;
+  margin-left: 0%;
+  padding-bottom: 10px;
+  float: left;
+  background-color: #f5f5f5;
+}
+
+.titultabla {
+  position: relative;
+  width: 18%;
+  margin-top: 40px;
+  margin-left: 4%;
+  float: left;
+  color: #323232;
+  font-weight: 700;
+}
+
+.titultabla.cuotacap {
+  margin-left: 0%;
+}
+
+.titultabla.intereses {
+  width: 17%;
+  margin-left: 0%;
+}
+
+.titultabla.totalcuota {
+  width: 15%;
+  margin-left: 0%;
+}
+
+.unacuota {
+  position: relative;
+  width: 100%;
+  margin-bottom: 2px;
+  margin-left: 0%;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  float: left;
+  background-color: #ededed;
+}
+
+.c1 {
+  position: relative;
+  width: 7%;
+  margin-left: 8%;
+  float: left;
+}
+
+.c1.c2 {
+  width: 18%;
+  margin-left: 0%;
+}
+
+.c1.c2.c3 {
+  width: 17%;
+  margin-left: 0%;
+}
+
+.c1.c2.c4 {
+  width: 17%;
+}
+
+.c1.c2.c5 {
+  width: 15%;
+}
+
+.latablaborde {
+  position: relative;
+  overflow: hidden;
+  width: 98%;
+  margin-left: 1%;
+  float: left;
+  border-radius: 10px;
+}
+
+.pasoeicon {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.loscativosext {
+  position: relative;
+  width: 100%;
+  margin-top: 44px;
+  margin-left: 0%;
+  float: left;
+}
+
+.unactiv {
+  position: relative;
+  overflow: hidden;
+  width: 48%;
+  margin-right: 1%;
+  margin-bottom: 18px;
+  margin-left: 1%;
+  float: left;
+  border: 1px solid #aeb0b3;
+  border-radius: 10px;
+  background-color: #f8f9fb;
+}
+
+.laimgactivext {
+  position: absolute;
+  width: 54%;
+  height: 100%;
+  max-height: 100%;
+  min-height: 100%;
+  float: left;
+  background-image: url('../images/imgactivos.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.infodelactiv {
+  position: relative;
+  width: 46%;
+  margin-left: 54%;
+  padding-top: 16px;
+  padding-bottom: 76px;
+  padding-left: 6%;
+  float: left;
+}
+
+.labelextra {
+  position: relative;
+  width: 96%;
+  margin-top: 0px;
+  padding-top: 3px;
+  float: left;
+  font-size: 13px;
+  line-height: 15px;
+}
+
+.datodelimn {
+  position: relative;
+  width: 96%;
+  float: left;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.adorno {
+  width: 20px;
+  height: 1px;
+  border-style: solid none none;
+  border-width: 1px;
+  border-color: #50b04c;
+}
+
+.solicitarinfo {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  padding-top: 6px;
+  padding-right: 29px;
+  padding-bottom: 7px;
+  background-color: #526781;
+  background-image: url('../images/shape.png');
+  background-position: 94% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-size: 13px;
+  font-weight: 300;
+  text-align: right;
+}
+
+.zoom {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  z-index: 1;
+  width: 24px;
+  height: 24px;
+  background-image: url('../images/zoom.png');
+  background-position: 50% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.dire {
+  position: relative;
+  float: left;
+}
+
+.mets {
+  position: relative;
+  float: left;
+}
+
+.tipodex {
+  position: relative;
+  float: left;
+}
+
+.imgde404 {
+  position: relative;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.textbig404 {
+  position: relative;
+  width: 100%;
+  margin-top: 22px;
+  float: left;
+  color: #103f77;
+  font-size: 155px;
+  line-height: 117px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.paginanoencontra {
+  position: relative;
+  width: 100%;
+  margin-top: 21px;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+  color: #103f77;
+  font-size: 19px;
+  line-height: 23px;
+  font-weight: 300;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.tituldelsearch {
+  position: relative;
+  width: 100%;
+  margin-top: 68px;
+  margin-bottom: 19px;
+  padding-left: 3%;
+  float: left;
+  font-size: 46px;
+  line-height: 39px;
+  font-weight: 300;
+}
+
+.resulttext {
+  font-size: 31px;
+}
+
+.unresultado {
+  position: relative;
+  width: 100%;
+  margin-bottom: 3px;
+  padding-top: 4px;
+  padding-bottom: 27px;
+  float: left;
+  background-color: #f1f1f1;
+}
+
+.titulresult {
+  position: relative;
+  width: 100%;
+  margin-bottom: 1px;
+  padding-left: 3%;
+  float: left;
+  color: #125eb6;
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.textencontrado {
+  position: relative;
+  width: 100%;
+  padding-left: 3%;
+  float: left;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.emergentecontent {
+  position: relative;
+  width: 100%;
+  min-height: 1000px;
+  float: left;
+}
+
+.formemergent {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  max-width: 506px;
+  margin-top: 425px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+}
+
+.tituldelemergente {
+  width: 100%;
+  float: left;
+  background-image: url('../images/fondotitulcontacto.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.tituldelemer {
+  position: relative;
+  width: 100%;
+  margin-top: 43px;
+  margin-bottom: 34px;
+  float: left;
+  color: #fff;
+  font-size: 35px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.elcontentemergent {
+  position: relative;
+  width: 100%;
+  float: left;
+  background-color: #2ea32c;
+}
+
+.textdemerget {
+  margin-top: 24px;
+  margin-bottom: 29px;
+  padding-right: 8%;
+  padding-left: 8%;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+}
+
+.formemergents {
+  display: block;
+  width: 85%;
+  margin-right: auto;
+  margin-bottom: 45px;
+  margin-left: auto;
+}
+
+.fieldemerge {
+  position: relative;
+  width: 100%;
+  float: left;
+  border: 1px none #000;
+  border-radius: 5px;
+}
+
+.botdenviar {
+  min-width: 140px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  float: right;
+  border-radius: 5px;
+  background-color: #07213f;
+}
+
+.ctabot {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 276px;
+  margin-left: 16%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 5px;
+  background-color: transparent;
+  text-transform: uppercase;
+}
+
+.ctabot.ctaslide1 {
+  position: relative;
+  margin-top: 0px;
+  margin-left: 10%;
+  float: left;
+  border: 1px solid #fff;
+  font-family: Oswald, sans-serif;
+}
+
+.ctabot.ctaslide1:hover {
+  background-color: #103f77;
+}
+
+.ctabot.ctaslide1.ctacolor {
+  border-color: #18447a;
+  color: #18447a;
+}
+
+.ctabot.ctaslide1.ctacolor:hover {
+  color: #fff;
+}
+
+.textdeimg {
+  position: relative;
+  width: 100%;
+  margin-top: 47px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+@media (max-width: 991px) {
+  .inputbuscar {
+    max-width: 182px;
+  }
+  .text-block {
+    padding-right: 7%;
+    padding-left: 7%;
+    text-align: left;
+  }
+  .text-block.sinbord {
+    padding-right: 7.1%;
+    font-size: 12px;
+  }
+  .menu {
+    overflow: visible;
+    min-height: 0px;
+  }
+  .logoprin {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .contentitems {
+    margin-top: 0px;
+    padding-bottom: 20px;
+    background-color: #fff;
+  }
+  .itemmenu {
+    width: 80%;
+    margin-left: 10%;
+    float: left;
+    border-top: 1px solid #b4b4b4;
+    border-bottom: 1px none #b4b4b4;
+    border-left-style: none;
+  }
+  .itemmenu.primeritem {
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+    border-top-width: 0px;
+  }
+  .submenuconocenos {
+    position: relative;
+    display: block;
+    width: 80%;
+    margin-left: 10%;
+    float: left;
+  }
+  .submenuconocenos.submenuproduc {
+    display: block;
+  }
+  .barradefondo {
+    display: none;
+  }
+  .slide.slide1 {
+    min-height: 320px;
+    background-position: 50% 50%;
+  }
+  .textslide {
+    width: 38%;
+    margin-top: 9px;
+    margin-bottom: 10px;
+    margin-left: 12%;
+    font-size: 13px;
+  }
+  .ctaslide {
+    z-index: 1;
+  }
+  .modprinci {
+    max-height: 239px;
+    min-height: 232px;
+  }
+  .mod2bix {
+    max-height: 272px;
+    min-height: 262px;
+  }
+  .contentimg {
+    width: 33%;
+    padding-right: 4%;
+    padding-left: 10%;
+  }
+  .heading {
+    width: 37%;
+    max-width: 40%;
+    text-align: center;
+  }
+  .lalineabord {
+    width: 26%;
+    margin-left: 2%;
+  }
+  .lalineabord.lineaotrolado {
+    width: 26%;
+  }
+  .modulospeques {
+    width: 98%;
+  }
+  .testimonios {
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+  .link-2 {
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 13px;
+  }
+  .text-block-5 {
+    width: 44%;
+    font-size: 10px;
+  }
+  .linksdefooter {
+    width: 32%;
+    min-width: 242px;
+    margin-left: 0%;
+    float: right;
+  }
+  .icon {
+    color: #164479;
+    font-size: 56px;
+  }
+  .contentbot.w--open {
+    background-color: transparent;
+  }
+  .tituloseccion {
+    margin-bottom: 20px;
+  }
+  .unparrafo.parrafomicope {
+    padding-right: 5%;
+    padding-left: 6%;
+  }
+  .text-block-6 {
+    width: 89%;
+  }
+  .imgdevalores {
+    width: 26%;
+  }
+  .imgdevalores.eslaimg {
+    left: 3%;
+    max-width: 34%;
+  }
+  .contenttextval {
+    width: 63%;
+  }
+  .losvalorestex {
+    margin-bottom: 20px;
+    padding-right: 9%;
+  }
+  .statutoimg {
+    margin-top: 39px;
+  }
+  .elfiltro {
+    min-width: 384px;
+  }
+  .compartir {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  .unrelinter {
+    padding-left: 4%;
+    background-position: 94% 88%;
+  }
+  .tituldemodcot {
+    font-size: 26px;
+    line-height: 29px;
+  }
+  .maspeque {
+    font-size: 19px;
+  }
+  .unordered-list {
+    width: 100%;
+    margin-right: 0%;
+    margin-left: 0%;
+  }
+  .tituldecontacto {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .formcontact {
+    margin-left: 11%;
+  }
+  .tarjetasarchive {
+    max-width: 460px;
+  }
+  .tithprod {
+    margin-top: 70px;
+    margin-bottom: 77px;
+  }
+  .tithprod.ahorrointer {
+    width: 65%;
+    padding-left: 2%;
+  }
+  .icontitulinter {
+    margin-top: 27px;
+  }
+  .icontitulinter.iconaportaciones {
+    height: 89%;
+    margin-right: 5%;
+  }
+  .unaremesa {
+    max-height: 96px;
+    min-height: 96px;
+    padding-top: 9px;
+  }
+  .imgremesa {
+    width: 79%;
+    float: none;
+  }
+  .imgctaprointer.tarjetasazules {
+    max-width: 96%;
+  }
+  .subfondocta {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  .cotizadorenlinea {
+    font-size: 17px;
+  }
+  .text-block-12 {
+    font-size: 22px;
+  }
+  .ctabotcotiz {
+    padding-left: 12%;
+    background-position: 88% 50%;
+  }
+  .tabdetabs.w--current {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+  .textab {
+    text-align: center;
+  }
+  .text-block-13 {
+    padding-left: 10%;
+  }
+  .agenciacel.telagencia {
+    padding-left: 0%;
+  }
+  .agenciacel.direccion {
+    padding-left: 0%;
+    font-weight: 400;
+  }
+  .agenombre {
+    font-size: 13px;
+  }
+  .vermasinfoagencia {
+    padding-left: 1%;
+    background-position: 92% 50%;
+    font-size: 13px;
+  }
+  .textdetienda.datoagenc {
+    width: 59%;
+    margin-top: 3%;
+  }
+  .textdetienda.datoagenc.direcci {
+    width: 59%;
+    margin-top: 3%;
+  }
+  .pasos.paso3 {
+    margin-left: 5%;
+  }
+  .selectdelformcot {
+    width: 73%;
+  }
+  .lasalertas {
+    min-height: 526px;
+  }
+  .titultabla.totalcuota {
+    width: 14%;
+  }
+  .infodelactiv {
+    padding-left: 4%;
+  }
+  .solicitarinfo {
+    padding-left: 0px;
+    font-size: 13px;
+    line-height: 15px;
+  }
+  .ctabot.ctaslide1 {
+    left: 0px;
+    top: auto;
+    bottom: 19px;
+    margin-top: 20px;
+    margin-left: 12%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+}
+
+@media (max-width: 767px) {
+  .header {
+    overflow: visible;
+  }
+  .content {
+    overflow: visible;
+  }
+  .max1000 {
+    overflow: visible;
+  }
+  .menutop {
+    height: auto;
+    max-height: none;
+  }
+  .buscador {
+    width: 100%;
+  }
+  .inputbuscar {
+    display: block;
+    width: 90%;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+    border-bottom-style: solid;
+    border-bottom-color: #fff;
+  }
+  .lupitasub {
+    margin-right: 5%;
+  }
+  .linke {
+    width: 50%;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+  }
+  .text-block {
+    width: 100%;
+    margin-top: 5px;
+    padding-right: 1%;
+    padding-left: 4%;
+  }
+  .text-block.sinbord {
+    margin-top: 5px;
+    border-left-width: 0px;
+  }
+  .itemmenu {
+    width: 90%;
+    margin-left: 5%;
+  }
+  .itemmenu.primeritem {
+    width: 90%;
+    margin-left: 5%;
+  }
+  .submenuconocenos {
+    width: 90%;
+    margin-left: 5%;
+  }
+  .textsubmenu {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .slide.slide1.slide4 {
+    min-height: 320px;
+  }
+  .slider {
+    min-height: 0px;
+  }
+  .textslide {
+    left: 0%;
+    top: 0px;
+    display: block;
+    width: 50%;
+    margin-top: 0px;
+  }
+  .flechs {
+    width: 49px;
+    height: 60px;
+  }
+  .flechs.flechder {
+    width: 49px;
+  }
+  .modulosprincipales {
+    margin-top: 16px;
+  }
+  .modprinci {
+    width: 100%;
+  }
+  .mod2bix {
+    position: relative;
+    left: 0%;
+    top: 0px;
+    width: 100%;
+    max-height: none;
+    min-height: 0px;
+  }
+  .otrosserviccios {
+    margin-top: 25px;
+  }
+  .heading {
+    line-height: 20px;
+  }
+  .textdesubservicio {
+    margin-top: 10px;
+  }
+  .servicicios {
+    width: 99%;
+  }
+  .text-block-3 {
+    padding-right: 3%;
+    padding-left: 3%;
+    font-size: 13px;
+    line-height: 13px;
+  }
+  .unotromodulo {
+    width: 96%;
+    min-height: 0px;
+  }
+  .unotromodulo.mod4 {
+    min-height: 231px;
+  }
+  .tituleduchome {
+    font-size: 24px;
+  }
+  .todoslosblogs {
+    margin-top: 7px;
+  }
+  .heading-3 {
+    margin-top: 18px;
+    margin-bottom: 0px;
+  }
+  .link-2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 16px;
+  }
+  .colums {
+    width: 19%;
+  }
+  .colums.col2 {
+    width: 24%;
+  }
+  .colums.cols3 {
+    width: 23%;
+  }
+  .colums.cols4 {
+    width: 30%;
+  }
+  .colums.cols5 {
+    width: 30%;
+  }
+  .logofooter {
+    width: 35%;
+    max-width: 168px;
+    margin-left: 2%;
+  }
+  .text-block-5 {
+    width: 59%;
+    margin-left: 2%;
+    padding-right: 1%;
+    float: right;
+  }
+  .linksdefooter {
+    width: 100%;
+  }
+  .icon-2 {
+    font-size: 25px;
+  }
+  .icon-3 {
+    font-size: 25px;
+  }
+  .presentacion {
+    padding-bottom: 30px;
+  }
+  .tituloseccion {
+    margin-top: 40px;
+  }
+  .tituloseccion.micoopetit {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .unparrafo {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  .unparrafo.parrafomicope {
+    margin-bottom: 20px;
+  }
+  .unaseccion {
+    width: 100%;
+  }
+  .unsistema {
+    display: block;
+    width: 100%;
+    margin: 10px auto 30px;
+    float: none;
+  }
+  .titulomis {
+    margin-top: 53px;
+    margin-bottom: 37px;
+    font-size: 36px;
+  }
+  .statutoimg {
+    margin-left: 13%;
+  }
+  .contentisssu {
+    width: 100%;
+    max-width: 442px;
+    min-height: 0px;
+    min-width: 412px;
+  }
+  .descgrandeinfofin {
+    padding-right: 6%;
+    padding-left: 6%;
+  }
+  .textsuninfin {
+    margin-bottom: 60px;
+    padding-right: 8.5%;
+    padding-left: 8.5%;
+  }
+  .titulcoperativismop {
+    font-size: 30px;
+  }
+  .textdecoper {
+    margin-top: 20px;
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+  .imgytexto.marext {
+    margin-bottom: 60px;
+  }
+  .imgcope1 {
+    max-width: 24%;
+    margin-left: 10%;
+  }
+  .textdecope1.textdecope2 {
+    margin-left: 10%;
+  }
+  .imgcope2 {
+    max-width: 27%;
+  }
+  .heading-7 {
+    font-size: 30px;
+  }
+  .texteimg {
+    margin-bottom: 40px;
+  }
+  .contentdeblog {
+    width: 42%;
+    margin-top: 10px;
+  }
+  .titulblogprin {
+    margin-top: 16px;
+    font-size: 15px;
+    line-height: 18px;
+  }
+  .leermas {
+    margin-top: 2px;
+  }
+  .imgblog {
+    margin-top: 43px;
+  }
+  .contentprincipal {
+    width: 100%;
+    min-height: auto;
+  }
+  .sidebarinterblog {
+    width: 100%;
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+  .articulosrelcontent {
+    margin-top: 10px;
+  }
+  .unrelinter {
+    background-position: 95% 50%;
+  }
+  .modcotizador {
+    margin-bottom: 30px;
+  }
+  .tituldecontacto {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 32px;
+  }
+  .datos {
+    width: 40%;
+  }
+  .formcontact {
+    margin-left: 5%;
+  }
+  .textdesc {
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+  .unitemarchivo {
+    width: 40%;
+    margin-right: 5%;
+    margin-bottom: 70px;
+    margin-left: 5%;
+  }
+  .unitemarchivo.tarje {
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+  .heading-8 {
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+  .tarjetasarchive {
+    max-width: 479px;
+  }
+  .tithprod {
+    margin-top: 60px;
+    margin-bottom: 67px;
+    font-size: 34px;
+  }
+  .tithprod.ahorrointer {
+    width: 70%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .icontitulinter {
+    margin-top: 38px;
+  }
+  .icontitulinter.iconaportaciones {
+    height: 70%;
+    margin-right: 5%;
+  }
+  .textdeprodu.textdecotizador.textdecotiz.textactivsext {
+    width: 90%;
+    margin-left: 5%;
+  }
+  .unaremesa {
+    max-height: 102px;
+    min-height: 102px;
+  }
+  .imgremesa {
+    width: 69%;
+  }
+  .seguroscolumna {
+    width: 92%;
+    margin-right: 4%;
+    margin-left: 4%;
+  }
+  .textcols {
+    width: 40%;
+  }
+  .subfondocta {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  .agenciacel {
+    width: 31%;
+  }
+  .agenciacel.telagencia {
+    width: 28%;
+  }
+  .agenciacel.direccion {
+    width: 41%;
+  }
+  .unagenciafila {
+    margin-bottom: 5px;
+  }
+  .agenombre {
+    width: 29%;
+  }
+  .agenombre.pbxtels {
+    width: 27%;
+  }
+  .agenombre.direccs {
+    width: 44%;
+    border-right-style: none;
+  }
+  .vermasinfoagencia {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-left: 3%;
+    border-top: 1px solid #fff;
+    border-left-style: none;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #e2e2e2;
+  }
+  .datosdeagencia {
+    min-height: 0px;
+  }
+  .imagendeagencia {
+    padding-bottom: 80px;
+  }
+  .textdetienda.datoagenc {
+    width: 63%;
+    margin-top: 5%;
+  }
+  .textdetienda.datoagenc.direcci {
+    width: 63%;
+    margin-top: 4%;
+  }
+  .textdetienda.datoagenc.pbxtel {
+    margin-top: 5%;
+  }
+  .textdetienda.icontel {
+    width: 36%;
+    background-position: 16px 0px;
+  }
+  .textdetienda.direc {
+    width: 36%;
+    background-position: 16px 0px;
+  }
+  .textdetienda.horarios {
+    width: 36%;
+    padding-left: 12%;
+    background-position: 18px 0px;
+    line-height: 13px;
+  }
+  .formcotizador {
+    width: 100%;
+  }
+  .pasos.paso3 {
+    margin-left: 2%;
+  }
+  .lasalertas {
+    width: 100%;
+    min-height: 0px;
+  }
+  .alerttext {
+    width: 64%;
+    margin-top: 0px;
+    margin-right: 0%;
+    margin-left: 0%;
+  }
+  .titultabla {
+    margin-left: 2%;
+    font-size: 12px;
+    text-align: center;
+  }
+  .titultabla.cuotacap {
+    font-size: 12px;
+  }
+  .titultabla.intereses {
+    width: 14%;
+    margin-left: 2%;
+  }
+  .titultabla.totalcuota {
+    width: 18%;
+  }
+  .pasoeicon {
+    width: 34%;
+  }
+  .unactiv {
+    width: 92%;
+    margin-left: 4%;
+  }
+  .dire {
+    width: 100%;
+  }
+  .mets {
+    width: 100%;
+  }
+  .tipodex {
+    width: 100%;
+  }
+  .textencontrado {
+    padding-right: 3%;
+    line-height: 20px;
+  }
+  .formemergent {
+    width: 95%;
+  }
+  .ctabot.ctaslide1 {
+    left: auto;
+    right: 6%;
+    bottom: 10px;
+    margin-left: 18%;
+  }
+  .textdeimg {
+    margin-top: 29px;
+  }
+}
+
+@media (max-width: 479px) {
+  .content {
+    overflow: hidden;
+  }
+  .footer {
+    overflow: hidden;
+    min-height: 0px;
+  }
+  .buscador {
+    margin-bottom: 5px;
+  }
+  .text-block.sinbord {
+    font-size: 12px;
+  }
+  .itemmenu {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .itemmenu.primeritem {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .itemsubmenu {
+    width: 100%;
+    min-height: 0px;
+  }
+  .textsubmenu {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-right-style: none;
+  }
+  .max1300 {
+    position: relative;
+  }
+  .max1300.subfooter {
+    display: none;
+  }
+  .slide.slide1 {
+    min-height: 260px;
+    background-position: 44% 50%;
+    background-repeat: no-repeat;
+  }
+  .slide.slide1.slide2 {
+    min-height: 260px;
+    background-position: 50% 50%;
+  }
+  .slide.slide1.slide3 {
+    min-height: 260px;
+    background-position: 30% 50%;
+  }
+  .slide.slide1.slide4 {
+    background-position: 50% 50%;
+  }
+  .textslide {
+    width: 80%;
+    margin-left: 2%;
+  }
+  .ctaslide {
+    display: block;
+  }
+  .flechs {
+    display: none;
+    width: 30px;
+    height: 40px;
+  }
+  .flechs.flechder {
+    display: none;
+    width: 30px;
+  }
+  .heading {
+    width: 86%;
+    max-width: 70%;
+  }
+  .lalineabord {
+    width: 10%;
+  }
+  .lalineabord.lineaotrolado {
+    width: 10%;
+  }
+  .textdesubservicio {
+    padding-right: 3%;
+    padding-left: 3%;
+  }
+  .servicicios {
+    margin-top: 15px;
+  }
+  .unserv {
+    width: 33%;
+  }
+  .text-block-3 {
+    font-size: 12px;
+  }
+  .otrosmodulos {
+    margin-top: 20px;
+  }
+  .modulospeques {
+    margin-right: 0%;
+  }
+  .unotromodulo {
+    width: 98%;
+  }
+  .unotromodulo.modul3 {
+    width: 98%;
+  }
+  .unotromodulo.mod4 {
+    width: 98%;
+    min-height: 151px;
+  }
+  .unotromodulo.mod2mid {
+    width: 98%;
+  }
+  .botdeprest {
+    padding-left: 3%;
+  }
+  .imgcontentmod2 {
+    width: 39%;
+  }
+  .image-3 {
+    width: 70%;
+  }
+  .flech {
+    margin-right: 33%;
+  }
+  .flech.flechizqu {
+    margin-left: 33%;
+  }
+  .tituleduchome {
+    min-height: 60px;
+    font-size: 20px;
+  }
+  .unblogarchivofina {
+    width: 98%;
+    margin-bottom: 10px;
+  }
+  .link {
+    top: 67px;
+  }
+  .link-2 {
+    padding-top: 0px;
+  }
+  .colums {
+    width: 100%;
+  }
+  .colums.col2 {
+    width: 100%;
+  }
+  .colums.cols3 {
+    width: 100%;
+  }
+  .colums.cols4 {
+    width: 100%;
+  }
+  .colums.cols5 {
+    width: 50%;
+  }
+  .text-block-5 {
+    width: 58%;
+    margin-top: 41px;
+  }
+  .slide-nav {
+    display: none;
+  }
+  .image-5 {
+    width: 84%;
+    max-width: none;
+  }
+  .tituloseccion {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 32px;
+  }
+  .tituloseccion.micoopetit {
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  .unparrafo {
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+  .unparrafo.parrafomicope.parrami {
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
+  .imgmodmicope.iconmi {
+    margin-top: 20px;
+  }
+  .titulomis {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 21px;
+  }
+  .imgdevalores {
+    position: relative;
+    display: none;
+    width: 100%;
+    min-height: 0px;
+    margin-top: 0px;
+    margin-left: 0%;
+  }
+  .imgdevalores.eslaimg {
+    position: relative;
+    max-width: 90%;
+    margin-right: 4%;
+    margin-left: 3%;
+  }
+  .contenttextval {
+    position: relative;
+    width: 100%;
+    float: left;
+  }
+  .tituldevals {
+    padding-left: 5%;
+  }
+  .losvalorestex {
+    margin-bottom: 40px;
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+  .statutoimg {
+    width: 60%;
+    margin-top: 20px;
+    margin-left: 20%;
+  }
+  .textstatuto {
+    width: 90%;
+    margin-left: 5%;
+  }
+  .titulostatuto {
+    margin-top: 0px;
+    font-size: 25px;
+  }
+  .textstatut {
+    font-size: 14px;
+  }
+  .contentisssu {
+    width: 100%;
+    min-width: 0px;
+  }
+  .descgrandeinfofin {
+    padding-right: 2%;
+    padding-left: 2%;
+  }
+  .textsuninfin {
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+  .titulcoperativismop {
+    margin-top: 30px;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .imgcope1 {
+    max-width: 24%;
+  }
+  .textdecope1 {
+    width: 57%;
+    margin-top: 0px;
+  }
+  .heading-7 {
+    margin-top: 17px;
+    padding-right: 5%;
+    padding-left: 5%;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .imgdecopartiva {
+    display: block;
+    width: 45.5%;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+  }
+  .textcoperativacredito {
+    width: 90%;
+    margin-top: 25px;
+    margin-bottom: 0px;
+  }
+  .elfiltro {
+    min-width: 100%;
+  }
+  .imgblogprin {
+    width: 100%;
+  }
+  .contentdeblog {
+    width: 94%;
+    padding-bottom: 30px;
+  }
+  .textinterblog {
+    text-align: left;
+  }
+  .contactocontent.errorpage {
+    padding-top: 35px;
+    padding-bottom: 75px;
+  }
+  .contactocontent.search {
+    padding-bottom: 30px;
+  }
+  .tituldecontacto {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    line-height: 34px;
+  }
+  .datos {
+    width: 100%;
+  }
+  .tituldedatoscont {
+    margin-top: 19px;
+  }
+  .textdedatos {
+    width: 95%;
+    margin-left: 4%;
+    padding-left: 14%;
+  }
+  .formcontact {
+    width: 89%;
+    margin-top: 10px;
+  }
+  .textdesc {
+    margin-bottom: 30px;
+    padding-right: 2%;
+    padding-left: 2%;
+    font-size: 13px;
+    line-height: 16px;
+  }
+  .unitemarchivo {
+    width: 43%;
+    margin-right: 3%;
+    margin-bottom: 50px;
+    margin-left: 3%;
+  }
+  .eltituldearhiv {
+    margin-top: 17px;
+  }
+  .heading-8 {
+    min-height: 24px;
+    margin-top: 12px;
+    font-size: 11px;
+    line-height: 14px;
+  }
+  .flechit {
+    background-image: none;
+  }
+  .tarjetasarchive {
+    max-width: 227px;
+  }
+  .tithprod {
+    width: 100%;
+    margin-top: 70px;
+    margin-bottom: 37px;
+  }
+  .tithprod.ahorrointer {
+    width: 81%;
+    margin-top: 40px;
+    font-size: 21px;
+    line-height: 24px;
+  }
+  .icontitulinter {
+    position: absolute;
+    top: 0px;
+    right: 5%;
+    margin-top: 10px;
+  }
+  .icontitulinter.iconaportaciones {
+    top: auto;
+    right: 0px;
+    bottom: 0px;
+    height: 63%;
+    margin-right: 1%;
+  }
+  .textdeprodu.textdecotizador.textdecotiz {
+    width: 88%;
+    margin-top: 21px;
+    margin-left: 6%;
+  }
+  .unaremesa {
+    width: 32%;
+    min-height: 75px;
+    margin-right: 1.3%;
+  }
+  .textcols {
+    width: 60%;
+  }
+  .subfondocta {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  .table {
+    width: 100%;
+  }
+  .encabezado {
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+  .unacelda.celdapresta {
+    font-size: 11px;
+    line-height: 10px;
+  }
+  .unacelda.celdapresta.ultimcel {
+    font-size: 11px;
+    line-height: 10px;
+  }
+  .unacelda.celdapresta.celdapresaut {
+    font-size: 10px;
+  }
+  .unacelda.celdapresta.celdapresaut.celautopres {
+    font-size: 9px;
+  }
+  .unacelda.celdapresta.celdapresaut.df {
+    font-size: 10px;
+  }
+  .tituldetabla.otrotitul {
+    margin-bottom: 5px;
+  }
+  .columdetabla {
+    padding-left: 13%;
+  }
+  .titulybotdeconstancia {
+    width: 64%;
+  }
+  .titulconstancia {
+    font-size: 15px;
+    line-height: 21px;
+  }
+  .tabdetabs {
+    width: 100%;
+  }
+  .agenombre {
+    width: 50%;
+  }
+  .agenombre.pbxtels {
+    width: 50%;
+  }
+  .agenombre.direccs {
+    width: 100%;
+    margin-top: 5px;
+  }
+  .vermasinfoagencia {
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding-left: 3%;
+  }
+  .datosdeagencia {
+    width: 96%;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+  .imagendeagencia {
+    width: 100%;
+    padding-bottom: 10px;
+  }
+  .datosdeagenciain {
+    position: relative;
+    width: 100%;
+  }
+  .undatodela {
+    min-height: 65px;
+  }
+  .undatodela.ultimagenc {
+    min-height: 65px;
+  }
+  .textdetienda.datoagenc {
+    line-height: 15px;
+  }
+  .textdetienda.datoagenc.direcci {
+    font-size: 12px;
+  }
+  .textdetienda.datoagenc.pbxtel {
+    margin-top: 18px;
+  }
+  .mapagoogle {
+    width: 96%;
+    min-height: 210px;
+    margin-top: 30px;
+    margin-left: 2%;
+  }
+  .imgmap {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    float: left;
+  }
+  .pasos.paso2 {
+    margin-left: 8%;
+    float: left;
+  }
+  .pasos.paso3 {
+    margin-top: 5px;
+  }
+  .selectdelformcot {
+    margin-left: 0%;
+  }
+  .inputcoti {
+    width: 92%;
+    text-align: left;
+  }
+  .labcot {
+    width: 100%;
+    padding-left: 9%;
+    text-align: left;
+  }
+  .uncamp {
+    margin-bottom: 0px;
+  }
+  .iconalerta {
+    width: 30%;
+    margin-top: 0px;
+    margin-right: 7%;
+    float: right;
+  }
+  .alerttext {
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 5%;
+  }
+  .textcenter {
+    width: 91%;
+  }
+  .tabladeresultados {
+    margin-bottom: 20px;
+  }
+  .titultabla {
+    width: 19%;
+    margin-top: 20px;
+    margin-left: 0%;
+    font-size: 9px;
+  }
+  .titultabla.cuotacap {
+    width: 20%;
+    font-size: 8px;
+  }
+  .titultabla.intereses {
+    width: 13%;
+    margin-top: 20px;
+    margin-left: 0%;
+  }
+  .c1.c2 {
+    font-size: 11px;
+    text-align: center;
+  }
+  .pasoeicon {
+    width: 100%;
+  }
+  .laimgactivext {
+    position: relative;
+    width: 100%;
+    min-height: 180px;
+  }
+  .infodelactiv {
+    width: 100%;
+    margin-left: 0%;
+    padding-bottom: 36px;
+    padding-left: 3%;
+  }
+  .labelextra {
+    width: 46%;
+  }
+  .datodelimn {
+    width: 54%;
+    margin-top: 5px;
+    font-size: 12px;
+  }
+  .solicitarinfo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .dire {
+    position: relative;
+    margin-bottom: 10px;
+    float: left;
+  }
+  .mets {
+    margin-bottom: 10px;
+  }
+  .textbig404 {
+    font-size: 105px;
+    line-height: 79px;
+  }
+  .tituldelsearch {
+    margin-top: 28px;
+    font-size: 39px;
+  }
+  .resulttext {
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+    float: left;
+    font-size: 25px;
+  }
+  .tituldelemer {
+    margin-top: 23px;
+    margin-bottom: 15px;
+  }
+  .textdemerget {
+    padding-right: 4%;
+    padding-left: 4%;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+  }
+  .formemergents {
+    width: 95%;
+    margin-bottom: 25px;
+  }
+  .ctabot.ctaslide1 {
+    margin-top: 0px;
+    margin-left: 9%;
+  }
+}

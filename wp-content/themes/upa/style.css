@@ -1,0 +1,770 @@
+/*
+
+Theme Name: Cooperativa UPA
+
+Theme URI: http://cooperativaupa.net
+
+Author: El Centro de Marketing
+
+Author URI: http://elcentrodemarketing.com
+
+Description: Tema desarrollado para UPA
+
+*/
+
+.menu{
+
+	min-height: 98%;
+
+}
+
+.linksdefooter {
+
+	width: 29.5%;   
+
+}
+
+.linke {
+
+	cursor: pointer;
+
+}
+
+.submenuconocenos {
+
+	display: none;
+
+}
+
+.submenumove{
+
+	height: 157px !important;
+
+}
+
+.displayb{
+
+	display: block !important;
+
+}
+
+.itemsubmenu{
+
+	cursor: pointer;
+
+}
+
+.textsubmenu {
+
+	text-decoration: none;
+
+}
+
+.unserv{
+
+	color: #1d1d1d;
+
+	text-decoration: none;
+
+}
+
+.heading-3 {
+
+	min-height: 34px;
+
+}
+
+.footer{
+
+	min-height: 0
+
+}
+
+.heading-8 { 
+
+	padding-left: 10%;
+
+	padding-right: 10%;
+
+}
+
+.icontitulinter.iconaportaciones {
+
+	height: 94%;
+
+}
+
+.tabs p {display: none;}
+
+.clas-tarjetas{ margin-left: 13%; margin-right: 13%; }
+
+#elmapa{ min-height: 400px; }
+
+.formcontact {
+
+	margin-bottom: 50px;
+
+}
+
+.titulblogprin.titulotroblog {
+
+	min-height: 34px;
+
+}
+
+.infodelactiv {
+
+	padding-bottom: 60px;
+
+	min-height: 260px;
+
+}
+
+.unactiv {
+
+	min-height: 262px;
+
+}
+
+.alianza{
+
+	float: left;
+
+	display: block;
+
+	width: 100%;
+
+	margin-top: 38px;
+
+	margin-bottom: 30px;
+
+}
+
+.alianzatext{
+
+	float: left;
+
+	font-size: 18px;
+
+	margin-top: 30px;
+
+	color: #3da738;
+
+	width: 40%;
+
+}
+
+.alianzaimg{
+
+	max-width: 60%;
+
+}
+
+.presentacion p, .micoope p{
+
+	font-size: 15px !important;
+
+	line-height: 21px !important;
+
+}
+
+.micoope{
+
+	padding-top: 60px;
+
+}
+
+.unacelda.celdapresta.celdapresaut{
+
+	width: 14.2% !important;
+
+}
+
+.lasalertas{
+
+	min-height: 532px;
+
+}
+
+.demascampos{
+
+	min-height: 426px;
+
+}
+
+.unaalerta{
+
+	color: #fff;
+
+	margin-bottom: 20px;
+
+}
+
+.latablaborde {
+
+	display: none;
+
+}
+
+.formemergent {
+
+	margin-top: 0px !important;
+
+}
+
+.fancybox-content, .fancybox-iframe, body, .emergentecontent{
+
+	background: transparent !important;
+
+}
+
+.captcha{
+
+	margin-bottom: 10px;
+
+}
+
+.formactivo{
+
+	background-color: #526781 !important;
+
+}
+
+.captchactivo{
+
+	float: left;
+
+	position: relative;
+
+	display: block;
+
+	width: 100%;
+
+}
+
+.slide5 {
+
+	background-image: url(images/slide5.jpg) !important;
+
+	background-position: 50% 50%;
+
+	background-size: cover;
+
+}
+
+.slide6 {
+
+	background-image: url(images/slide6.jpg) !important;
+
+	background-position: 50% 50%;
+
+	background-size: cover;
+
+}
+
+.contendemodprin {
+
+	max-width: 343px !important;
+
+}
+
+.textdeprodu{
+
+	text-align: justify;
+
+}
+
+.tablaprogramado .unacelda{
+
+	width: 50% !important;
+
+}
+
+.titulta{
+
+	text-align: center;
+
+	font-size: 20px;
+
+	font-weight: bold;
+
+}
+
+.textdetienda{
+
+	width: 40% !important;
+
+}
+
+.trilogiacontent{
+
+	display: block;
+
+	position: relative;
+
+	float: left;
+
+	width: 100%;
+
+	margin: 45px 0;
+
+}
+
+.unatrilogia{
+
+	width: 100%;
+
+	max-width: 33%;
+
+	display: block;
+
+	position: relative;
+
+	float: left;
+
+}
+
+.unatrilogia h4{
+
+	display: block;
+
+	position: relative;
+
+	float: left;
+
+	width: 100%;
+
+	text-align: center;
+
+	color: #fff;
+
+}
+
+.unatrilogia img{
+
+	display: block;
+
+	position: relative;
+
+	margin: 0 auto;
+
+	max-width: 70%;
+
+}
+
+.titulresult a{
+
+	text-decoration: none;
+
+	color: #125eb6;
+
+	font-weight: bold;
+
+}
+
+.unresultado{
+
+	margin-bottom: 25px !important;
+	padding-bottom: 0;
+
+}
+
+.resulttext {
+
+	font-size: 31px;
+
+	color: #2a9b25;
+
+	font-weight: bold;
+
+	text-align: center;
+
+	float: left;
+
+	display: block;
+
+	position: relative;
+
+	width: 100%;
+
+}
+
+.textplaza{
+
+	display: block;
+
+	position: relative;
+
+	float: left;
+
+	width: 100%;
+
+	text-align: center;
+
+	margin-bottom: 32px;
+
+}
+
+.colplaza{
+
+	width: 33%;
+
+	float: left;
+
+	display: block;
+
+	position: relative;	
+
+}
+
+
+
+.titulresult{
+
+	font-weight: bold;
+	font-size: 17px;
+
+}
+
+.ctacontentpla{
+
+	float: right;
+
+	width: 30%;
+
+	display: block;
+
+	margin-top: 21px;
+
+}
+
+.ctaplazx{
+
+	background: #125eb6;
+
+	margin: 0 auto;
+
+	float: none;
+
+	display: block;
+
+	position: relative;
+
+	max-width: 101px;
+
+	clear: both;
+
+}
+
+.siniqueaplique {
+
+	background: rgb(251, 251, 251);
+
+}
+
+.siniqueaplique .titulresult{
+
+	float: left;
+
+	width: 50%;
+
+	clear: none;
+
+	line-height: 21px;
+
+	margin-top: 40px;
+	text-align: right;
+
+}
+
+.siniqueaplique .ctaplazx{
+
+	float: left;
+
+	display: block;
+
+	position: relative;
+
+	clear: none;
+
+	margin-top: 29px;
+
+	margin-left: 8%;
+
+	min-width: 30%;
+
+	text-align: center;
+
+	background: #4CAF50;
+
+}
+
+.formplaza {
+
+	background: #9E9E9E !important 
+
+}
+
+.formdeplaz{
+
+	padding-top: 20px;
+
+}	
+
+.textradio{
+
+	color: #fff;
+
+	margin-right: 5%;
+
+}
+
+.radiocontent{
+
+	display: block;
+
+	position: relative;
+
+	float: left;
+
+	width: 100%;
+
+	margin-bottom: 10px;
+
+}
+
+.ctazul{
+
+	background-color: #103f77;
+
+}
+
+.colums.cols4 {
+
+	width: 20%;
+
+}
+
+.colums.cols5 {
+
+	width: 16%;
+
+}
+
+
+
+.textdesc h4{
+
+	text-align: center;
+
+	margin-bottom: 30px;
+
+}
+
+.tablade2cols{
+
+	width: 60%;
+
+	margin-left: 18%;
+
+}
+
+.beneficios{
+
+	float: left;
+
+	width: 70%;
+
+	margin-left: 15%;
+
+	text-align: left;
+
+}
+
+.centerline{text-align: center;}
+
+.agenombre.direccs{
+
+	padding-left: 4%;
+
+}
+
+.textjust{
+
+	text-align: justify;
+
+}
+
+.quote{
+
+	color: rgba(255, 255, 255, 0.45);
+
+	font-size: 12px;
+
+}
+
+.paddingcop{
+
+	padding-bottom: 40px;
+
+}
+
+.textdedatos a{
+
+	color: #fff;
+
+	text-decoration: none;
+
+}
+
+.clas-ahorros{
+
+	max-height: 127px;
+
+	min-height: 127px;
+
+	width: 18%;
+
+}
+
+img.ahorro-corriente{
+
+	height: 100% !important;
+
+}
+
+.presta-facil .subfondocta{
+
+	height: 185px !important;
+
+}
+
+.mi-presta-upa img{
+
+	margin-left: 0px !important;	
+
+	margin-top: 10px !important;
+
+}
+
+.presta-facil-en-tu-empresa .subfondocta{
+
+	height: 150px !important;
+
+}
+
+.micoope-upa-visa-internacional .subfondocta{
+
+	height: 207px !important;
+
+}
+
+.blogarchiv, .itemprincipal{
+
+	text-decoration: none !important;
+
+	color: #000 !important;
+
+}
+.contenttextval{
+	padding-bottom: 40px;
+}
+.cotizarr{
+	display: block;
+	float: right;
+	margin: 5px 0 10px 0;
+	min-width: 249px;
+	width: 46%;
+	padding: 10px;
+	background: #0b315c;
+	color: #FFF;
+	border-radius: 5px;
+}
+.datoagence, .agenombree{
+	text-decoration: none;
+	color: #333;
+}
+.filtros select{
+	width: 100%;
+	border: 0;
+	padding: 8px;
+	border-radius: 12px;
+}
+.image-7 {
+	border-radius: 10px; 
+}
+.sharethis-inline-share-buttons{
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+	display: block;
+}
+input.wpcf7-form-control{
+	border: 0;
+	padding: 9px 0;
+	width: 100%;
+}
+.titformcot{
+	font-family: Arial, sans-serif;
+	margin: 10px 0 25px 0;
+	color: #19195c;
+	text-align: left;
+	font-size: 20px;
+	float: left;
+	width: 100%;
+	padding-left: 25%;
+}
+.contentform{
+	min-height: 0;
+	padding: 23px 0;
+}
+.contentform label{
+	width: 19%;
+	text-align: left;
+	padding-left: 5%;
+	margin-right: 5%;
+	min-width: 178px;
+}
+.contentform input{
+	float: left;
+	text-align: left;
+}
+.imputut{
+	margin-left: 24%;
+	text-align: center !important;
+}
+.cotz{
+	display: none;
+}
+.elcotizador .captcha{
+	float: left;
+	margin-left: 24%;
+}
+@media (max-width: 479px) {
+	.slide{
+		min-height: 320px !important;
+	}
+	.contendemodprin.contenmod2{
+		margin-left: 14% !important;
+	}
+	.unblogarchivofina{
+		min-height: 340px !important;
+	}
+	.beneficios {
+		width: 98% !important;
+		margin-left: 2% !important;
+	}
+	.text-block-13{
+		background-position: 4% 4px;
+	}
+	.clas-ahorros {
+		width: 27%;
+	}
+	.cotizarr{
+		margin-top: 12px;
+		width: 92%;
+	}
+	.datoagence, .agenombree{
+		text-decoration: underline;
+	}
+}	
